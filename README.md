@@ -1,5 +1,5 @@
 # 🎤 **Audio Transcription Script Setup Guide**
-
+The entire script was created by AI (Claude 4 Sonnet).
 This script transcribes audio files to text using **OpenAI's Whisper API**. All settings are now **configurable at the top of the script**.
 
 ## 📋 **Quick Setup**
